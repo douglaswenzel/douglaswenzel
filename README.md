@@ -16,9 +16,6 @@
   alt="Top Languages - Douglas Wenzel" 
 />
 
-_(Explore <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats repository</a> to add your own cards to your profile!)_
-
-
 ## Sobre mim 🎯
 
 - 💻 **Desenvolvedor Front End** especializando-se em **React** e **Typescript**
